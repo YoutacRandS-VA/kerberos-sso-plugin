@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "sass": "^1.77.8"
+  },
+  "dependencies": {
+    "@nativescript/swift-ui": "^4.0.1",
+    "import": "^0.0.6"
   }
 }

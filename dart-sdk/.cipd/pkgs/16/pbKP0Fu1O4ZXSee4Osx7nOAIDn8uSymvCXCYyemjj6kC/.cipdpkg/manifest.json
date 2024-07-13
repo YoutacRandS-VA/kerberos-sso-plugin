@@ -1,0 +1,28 @@
+{
+  "format_version": "1.1",
+  "package_name": "dart/third_party/d8/windows-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "d8.exe",
+      "size": 26595840,
+      "hash": "R0uku0VheJiXsJlsPghJHJ69UJHRK2ysihhInoz1T_wC"
+    },
+    {
+      "name": "icudtl.dat",
+      "size": 10468208,
+      "hash": "mumMBsuw6kPFzWtXJTEMAIxl5GByQhoRGMuI4d6ai5IC"
+    },
+    {
+      "name": "snapshot_blob.bin",
+      "size": 312042,
+      "hash": "wPg-RMi_T3Xf5KnH-CNozRSlcVsdeoUQswGfvOWAMYIC"
+    },
+    {
+      "name": "v8_build_config.json",
+      "size": 1347,
+      "hash": "BefxtWPxLDXk-gEaAv2Ny2akR1fEQGFc-ReDW0n2srQC"
+    }
+  ]
+}
